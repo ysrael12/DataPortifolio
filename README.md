@@ -34,8 +34,8 @@ Essas habilidades me permitem transformar dados brutos em insights acionáveis, 
 
 Aqui estão links para outros projetos que fazem parte do meu portfólio:
 
-- [Nome do Projeto 1](https://github.com/ysrael12/Ybi_ai) - Plataforma de decisão agronômica focada em precisão e sustentabilidade.
-- [Nome do Projeto 2](https://github.com/ysrael12/SpaceX-etl) - Pipeline de ETL.
+- [Ybi Ai](https://github.com/ysrael12/Ybi_ai) - Plataforma de decisão agronômica focada em precisão e sustentabilidade.
+- [SpaceX-etl](https://github.com/ysrael12/SpaceX-etl) - Pipeline de ETL.
 - [Nome do Projeto 3](link_para_repositorio) - Breve descrição do projeto.
 
 *Nota: Esta seção será atualizada conforme novos projetos forem adicionados.*
